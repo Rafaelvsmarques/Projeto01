@@ -4,7 +4,7 @@
 }
 
 body {
-    background-color: blueviolet; /* Adicionando espaço entre a propriedade e o valor */
+    background-color: blueviolet;
 }
 
 main {
@@ -12,5 +12,5 @@ main {
     width: 500px;
     margin: auto;
     padding: 10px;
-    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.267);
+    box-shadow: 3px 3px 5px rgba(141, 137, 137, 0.555);
 }
